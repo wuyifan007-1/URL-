@@ -1,4 +1,5 @@
 1、安装库：
+
 pip3 install tkinter 
 pip3 install tk
 pip3 install filedialog
@@ -8,6 +9,8 @@ pip3 install aiohttp
 pip3 install threading
 pip3 install queue
 pip3 install Queue
+
+
 
 2、编译：
 pip install pyinstaller
